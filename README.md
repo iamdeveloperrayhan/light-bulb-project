@@ -23,7 +23,7 @@ This project allows users to:
 
 ## 📸 Preview
 
-![Products](img/image.png)
+![Products](image.png)
 
 
 ## 🔗 Live Demo
