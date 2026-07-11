@@ -1,15 +1,47 @@
-# lamp_with_control_color
-lamp with control color
+# 💡 Light Bulb Project
 
-#Using by
+An interactive Light Bulb project built using **HTML, CSS, and JavaScript**.
 
-    HTML
-    CSS
-    JavaScript
-    CSS Animation
+This project allows users to:
 
-#Author
-if you need it, you can download it. but don't abouse it. i made this my practice purpose. (Author)
+* 💡 Turn the light ON/OFF
+* 🎨 Change the bulb color dynamically
+* ⚡ Experience a simple interactive UI
 
-#Follow link
-https://devloperrayhan.github.io/lamp_with_control_color/
+## 🚀 Features
+
+* Responsive Design
+* Light ON/OFF Toggle
+* Dynamic Color Changing
+* Simple JavaScript DOM Manipulation
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+## 📸 Preview
+```
+![Products](img/image.png)
+```
+
+## 🔗 Live Demo
+
+```
+https://iamdeveloperrayhan.github.io/light-bulb-project/
+```
+
+## 👨‍💻 Author
+
+**Developer Rayhan**
+
+GitHub:
+
+```
+https://github.com/iamdeveloperrayhan
+```
+
+---
+
+⭐ If you like this project, feel free to give it a star!
