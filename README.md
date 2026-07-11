@@ -22,9 +22,9 @@ This project allows users to:
 * JavaScript
 
 ## 📸 Preview
-```
+
 ![Products](img/image.png)
-```
+
 
 ## 🔗 Live Demo
 
